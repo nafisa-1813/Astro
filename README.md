@@ -1,4 +1,4 @@
-# Cassini-Huygens Mission: Cosmic Dust Analyzer (CDA) Data Project  
+# Cassini-Huygens: Cosmic Dust Analyzer (CDA) Data Project  
 
 ## **Overview**  
 This repository is dedicated to exploring data from the Cassini-Huygens mission, with a focus on the Cosmic Dust Analyzer (CDA) instrument. The project aims to create an astrodynamical database of dust particles detected in the Saturnian system, analyze their properties, and uncover scientific insights using advanced computational techniques such as machine learning.
